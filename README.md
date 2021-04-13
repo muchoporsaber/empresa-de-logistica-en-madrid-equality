@@ -1,4 +1,4 @@
-# empresa-de-logistica-en-madrid-equality
+# Empresa de logistica en Madrid Equality
 Proveedor de Servicios Logísticos (Almacenaje, Distribución y Transporte), Técnicos (Consultoría de Sistemas, Microinformática, Networking, Outsorcing) y de Gestión de Residuos (Logística Inversa y Reciclaje).  Especialistas en Transporte Tecnológico  y Traslados Técnicos.
 
 UN GRUPO DEDICADO A LA LOGÍSTICA CUYA DIFERENCIACIÓN SON LOS SERVICIOS DE VALOR AÑADIDO
